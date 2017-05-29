@@ -1,0 +1,28 @@
+  643  git status
+  644  git add *
+  645  git status
+  646  git commit -m "Start proj01"
+  647  git branch
+  648  git push master
+  649  git push orign
+  650  git push
+  651  ssh-keygen -t rsa -b 4096 -C "daniel.expe@gmail.com"
+  652  eval $(ssh-agent -s)
+  653  ls -al ~/.ssh
+  654  ssh-add ~/.ssh/id_danielexpe
+  655  ssh -T git@github.com
+  656  ssh -vT git@github.com
+  657  cat /home/dk27850/.ssh/id_danielexpe
+  658  pwd
+  659  git status
+  660  ssh-keygen -t rsa -b 4096 -C "danielexpe"
+  661  history
+  662  eval $(ssh-agent -s)
+  663  ls -al ~/.ssh
+  664  ssh-add ~/.ssh/id_danielexpe
+  665  ssh -T git@github.com
+  666  ssh -vT git@github.com
+  667  cat /home/dk27850/.ssh/id_danielexpe.pub
+  668  ssh -vT git@github.com
+  669  ssh -T git@github.com
+  670  history > history.txt
