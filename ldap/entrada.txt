@@ -1,0 +1,2 @@
+"@desenvolvimento.com.br","192.168.12.16","CN=DK1,OU=Grupos,DC=desenvolvimento,DC=com,DC=br"
+"@desenvolvimento.com.br","192.168.12.16","CN=Novo_grupo1,OU=Grupos,DC=desenvolvimento,DC=com,DC=br"

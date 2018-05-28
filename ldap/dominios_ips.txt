@@ -1,0 +1,5 @@
+"192.168.12.16","DC=desenvolvimento,DC=com,DC=br"
+"192.168.12.17","DC=desenvolvimento17,DC=com,DC=br"
+"192.168.12.18","DC=desenvolvimento18,DC=com,DC=br"
+"192.168.12.19","DC=desenvolvimento19,DC=com,DC=br"
+"192.168.12.20","DC=desenvolvimento20,DC=com,DC=br"

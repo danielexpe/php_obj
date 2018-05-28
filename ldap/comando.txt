@@ -1,0 +1,1 @@
+php -f ad_users_and_groups.php entrada.txt tonytom@desenvolvimento.com.br Teste1q2w3e4r5t6y
